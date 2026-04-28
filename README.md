@@ -8,7 +8,7 @@ It is built for people who want to understand why systems become unstable, diver
 
 ---
 
-# 🔧 Current Status
+#  Current Status
 
 > **Early development — MVP in progress.**  
 > First public prototype is currently being built.
@@ -23,7 +23,7 @@ Current focus:
 
 ---
 
-# 🚀 Why Orbital Symphony Exists
+#  Why Orbital Symphony Exists
 
 Many existing orbital mechanics tools are excellent at numerical simulation.
 
@@ -38,7 +38,7 @@ Orbital Symphony focuses on these questions.
 
 ---
 
-# 🎯 Core Philosophy
+#  Core Philosophy
 
 Orbital Symphony is not trying to replace professional astrophysics software.
 
@@ -48,7 +48,7 @@ It is designed as a:
 
 ---
 
-# ✨ Planned MVP Features
+#  Planned MVP Features
 
 ## 🔭 Perturbation Compare Mode
 
@@ -75,7 +75,7 @@ Quantify separation over time:
 
 ---
 
-## 🌌 Orbit Visualization
+## Orbit Visualization
 
 Interactive views for:
 
@@ -87,7 +87,7 @@ Interactive views for:
 
 ---
 
-## 🎵 Sonification Engine (Core Feature)
+##  Sonification Engine (Core Feature)
 
 **Sound is a first-class analytical layer — not decoration.**
 
@@ -112,7 +112,7 @@ Orbital Symphony converts system dynamics into sound so users can hear transitio
 
 ---
 
-## 🧠 Chaos Explorer
+##  Chaos Explorer
 
 Observe:
 
@@ -124,7 +124,7 @@ Observe:
 
 ---
 
-# 👥 Who Is This For?
+#  Who Is This For?
 
 ## 🎓 Students
 Get “aha moments” beyond equations.
@@ -153,7 +153,7 @@ It is a tool for **understanding**, not false certainty.
 
 ---
 
-# 🆚 Positioning
+#  Positioning
 
 | Tool | Focus |
 |------|------|
@@ -164,7 +164,7 @@ It is a tool for **understanding**, not false certainty.
 
 ---
 
-# 🧱 Tech Stack
+#  Tech Stack
 
 Planned:
 
@@ -220,7 +220,7 @@ Future:
 
 ---
 
-# 🤝 Contributions Welcome
+#  Contributions Welcome
 
 Interested in:
 
@@ -234,7 +234,7 @@ Open an issue or contribute.
 
 ---
 
-# 📜 Final Statement
+#  Final Statement
 
 Orbital Symphony does not promise to tame chaos.
 
